@@ -1,2 +1,8 @@
 C:\tmp\githubprojects\xmrig\build\Release
--o stratum+tcp://fcn.pool.minergate.com:45610 -u investdatasystems@yahoo.com -p x
+
+#for mining only FCN (fantomcoins) :
+xmrig -o stratum+tcp://fcn.pool.minergate.com:45610 -u investdatasystems@yahoo.com -p x
+
+#for merged mining FCN and XML (fantomcoins and monero)
+xmrig -o stratum+tcp://fcn-xmr.pool.minergate.com:45590 -u investdatasystems@yahoo.com -p x
+
