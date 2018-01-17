@@ -1,0 +1,2 @@
+C:\tmp\githubprojects\xmrig\build\Release
+-o stratum+tcp://fcn.pool.minergate.com:45610 -u investdatasystems@yahoo.com -p x
