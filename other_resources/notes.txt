@@ -6,3 +6,23 @@ xmrig -o stratum+tcp://fcn.pool.minergate.com:45610 -u investdatasystems@yahoo.c
 #for merged mining FCN and XML (fantomcoins and monero)
 xmrig -o stratum+tcp://fcn-xmr.pool.minergate.com:45590 -u investdatasystems@yahoo.com -p x
 
+
+
+
+* VERSIONS:     XMRig/2.4.4 libuv/1.18.0 MSVC/2017
+ * HUGE PAGES:   available, disabled
+ * CPU:          Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz (1) x64 AES-NI
+ * CPU L2/L3:    0.5 MB/3.0 MB
+ * THREADS:      1, cryptonight, av=1, donate=5%
+ * POOL #1:      fcn-xmr.pool.minergate.com:45590
+ * COMMANDS:     hashrate, pause, resume
+[2018-01-17 13:06:55] use pool fcn-xmr.pool.minergate.com:45590 136.243.102.157
+[2018-01-17 13:06:55] new job from fcn-xmr.pool.minergate.com:45590 diff 1063
+[2018-01-17 13:06:59] new job from fcn-xmr.pool.minergate.com:45590 diff 1063
+[2018-01-17 13:07:01] new job from fcn-xmr.pool.minergate.com:45590 diff 1063
+[2018-01-17 13:07:04] speed 2.5s/60s/15m 70.7 n/a n/a H/s max: 70.7 H/s
+[2018-01-17 13:07:05] speed 2.5s/60s/15m 70.4 n/a n/a H/s max: 70.7 H/s
+[2018-01-17 13:07:06] speed 2.5s/60s/15m 70.4 n/a n/a H/s max: 70.7 H/s
+[2018-01-17 13:07:06] speed 2.5s/60s/15m 70.2 n/a n/a H/s max: 70.7 H/s
+[2018-01-17 13:07:07] speed 2.5s/60s/15m 68.4 n/a n/a H/s max: 70.7 H/s
+[2018-01-17 13:07:08] speed 2.5s/60s/15m 68.6 n/a n/a H/s max: 70.7 H/s
