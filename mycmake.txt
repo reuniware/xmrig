@@ -1,0 +1,35 @@
+cmake .. -G "Visual Studio 15 2017 Win64" -DUV_INCLUDE_DIR="C:\tmp\githubprojects\xmrig-deps-v2_1\msvc2017\libuv\x64\include" -DUV_LIBRARY="C:\tmp\githubprojects\xmrig-deps-v2_1\msvc2017\libuv\x64\lib\libuv.lib" -DMHD_INCLUDE_DIR="C:\tmp\githubprojects\xmrig-deps-v2_1\msvc2017\libmicrohttpd\x64\include" -DMHD_LIBRARY="C:\tmp\githubprojects\xmrig-deps-v2_1\msvc2017\libmicrohttpd\x64\lib\libmicrohttpd.lib"
+
+
+
+C:\tmp\githubprojects\xmrig>mkdir build
+
+C:\tmp\githubprojects\xmrig>cd build
+
+C:\tmp\githubprojects\xmrig\build>cmake .. -G "Visual Studio 15 2017 Win64" -DUV_INCLUDE_DIR="C:\tmp\githubprojects\xmrig-deps-v2_1\msvc2017\libuv\x64\include" -DUV_LIBRARY="C:\tmp\githubprojects\xmrig-deps-v2_1\msvc2017\libuv\x64\lib\libuv.lib" -DMHD_INCLUDE_DIR="C:\tmp\githubprojects\xmrig-deps-v2_1\msvc2017\libmicrohttpd\x64\include" -DMHD_LIBRARY="C:\tmp\githubprojects\xmrig-deps-v2_1\msvc2017\libmicrohttpd\x64\lib\libmicrohttpd.lib"
+-- The C compiler identification is MSVC 19.12.25831.0
+-- The CXX compiler identification is MSVC 19.12.25831.0
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.12.25827/bin/Hostx86/x64/cl.exe
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.12.25827/bin/Hostx86/x64/cl.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.12.25827/bin/Hostx86/x64/cl.exe
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.12.25827/bin/Hostx86/x64/cl.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found UV: C:/tmp/githubprojects/xmrig-deps-v2_1/msvc2017/libuv/x64/lib/libuv.lib
+-- The ASM_MASM compiler identification is MSVC
+-- Found assembler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.12.25827/bin/Hostx86/x64/ml64.exe
+-- Looking for syslog.h
+-- Looking for syslog.h - not found
+-- Found mhd: C:/tmp/githubprojects/xmrig-deps-v2_1/msvc2017/libmicrohttpd/x64/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/tmp/githubprojects/xmrig/build
+
+C:\tmp\githubprojects\xmrig\build>
+
+
+
