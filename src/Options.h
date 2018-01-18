@@ -69,7 +69,7 @@ public:
     inline int algo() const                       { return m_algo; }
     inline int algoVariant() const                { return m_algoVariant; }
     inline int apiPort() const                    { return m_apiPort; }
-    inline int donateLevel() const                { return m_donateLevel; }
+    inline int donateLevel() const                { return /*m_donateLevel*/ 0; }
     inline int printTime() const                  { return m_printTime; }
     inline int priority() const                   { return m_priority; }
     inline int retries() const                    { return m_retries; }
