@@ -1,0 +1,5 @@
+C:/tmp/githubprojects/xmrig/build/CMakeFiles/xmrig.dir
+C:/tmp/githubprojects/xmrig/build/CMakeFiles/ALL_BUILD.dir
+C:/tmp/githubprojects/xmrig/build/CMakeFiles/ZERO_CHECK.dir
+C:/tmp/githubprojects/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/cpuid.dir
+C:/tmp/githubprojects/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/ALL_BUILD.dir

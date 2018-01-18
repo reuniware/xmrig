@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/tmp/githubprojects/xmrig/src/3rdparty/libcpuid/CMakeLists.txt
+  CMake does not need to re-run because C:/tmp/githubprojects/xmrig/build/src/3rdparty/libcpuid/CMakeFiles/generate.stamp is up-to-date.
+  Assembling C:\tmp\githubprojects\xmrig\src\3rdparty\libcpuid\masm-x64.asm...
+  cpuid_main.c
+  asm-bits.c
+  recog_amd.c
+  recog_intel.c
+  libcpuid_util.c
+  Génération de code en cours...
+  cpuid.vcxproj -> C:\tmp\githubprojects\xmrig\build\src\3rdparty\libcpuid\Debug\cpuid.lib
